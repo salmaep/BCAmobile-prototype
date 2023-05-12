@@ -1,0 +1,403 @@
+.top-up-emoney31-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.top-up-emoney31-top-up-emoney31 {
+  width: 417px;
+  height: 736px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(14, 22, 100, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(14, 22, 100, 1);
+}
+.top-up-emoney31-frame {
+  top: -3px;
+  left: 0px;
+  width: 414px;
+  height: 44px;
+  position: absolute;
+}
+.top-up-emoney31-rectangle56 {
+  top: 41px;
+  left: 0px;
+  width: 414px;
+  height: 67px;
+  position: absolute;
+}
+.top-up-emoney31-hicon-bold-left2 {
+  top: 55px;
+  left: 8px;
+  width: 40px;
+  height: 37px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.top-up-emoney31-left2 {
+  top: 9.635416984558105px;
+  left: 15.416666984558105px;
+  width: 9.166666984558105px;
+  height: 17.729167938232422px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney31-vector {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 18px;
+  position: absolute;
+}
+.top-up-emoney31-rectangle57 {
+  top: 67px;
+  left: 377px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.top-up-emoney31-text {
+  top: 61px;
+  left: 156px;
+  color: rgba(40, 84, 150, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney31-buttonlanjutkan {
+  top: 665px;
+  left: 26px;
+  width: 367px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.top-up-emoney31-text02 {
+  top: 15px;
+  left: 144px;
+  color: rgba(36, 78, 141, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney31-infotransfer {
+  top: 126px;
+  left: 28px;
+  width: 367px;
+  height: 384px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.top-up-emoney31-nomortujuan {
+  top: 240px;
+  left: 21px;
+  width: 232.93846130371094px;
+  height: 66px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney31-text04 {
+  color: rgb(40, 84, 150);
+  width: 233px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney31-text05 {
+  top: 25px;
+  left: 55px;
+  color: rgba(0, 0, 0, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney31-text07 {
+  top: 49px;
+  left: 55px;
+  color: rgba(0, 0, 0, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney31-avatar {
+  top: 25px;
+  left: 0px;
+  width: 41px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(204, 209, 255, 1);
+}
+.top-up-emoney31-text09 {
+  top: 11px;
+  left: 9px;
+  color: rgba(14, 22, 100, 1);
+  width: 25px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney31-nomortujuan1 {
+  top: 21px;
+  left: 21px;
+  width: 232px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney31-text11 {
+  color: rgba(40, 84, 150, 1);
+  width: 103px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney31-text13 {
+  top: 27px;
+  left: 52px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney31-text15 {
+  top: 46px;
+  left: 52px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney31-text16 {
+  font-weight: 500;
+}
+.top-up-emoney31-avatar1 {
+  top: 25px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.top-up-emoney31-image2 {
+  top: 15px;
+  left: 4px;
+  width: 32px;
+  height: 10px;
+  position: absolute;
+}
+.top-up-emoney31-nominaltransfer {
+  top: 120px;
+  left: 21px;
+  width: 324px;
+  height: 93px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney31-rectangle214 {
+  top: 26px;
+  left: 0px;
+  width: 324px;
+  height: 67px;
+  position: absolute;
+  border-radius: 10px;
+}
+.top-up-emoney31-text18 {
+  color: rgba(40, 84, 150, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney31-text20 {
+  top: 39px;
+  left: 76px;
+  color: rgb(29, 70, 157);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney31-text21 {
+  top: 70px;
+  left: 70px;
+  color: rgba(29, 70, 157, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney31-moneyduotoneline {
+  top: 39px;
+  left: 12px;
+  width: 43px;
+  height: 41px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.top-up-emoney31-subtract {
+  top: 10.25px;
+  left: 5.375px;
+  width: 32px;
+  height: 20px;
+  position: absolute;
+}
+.top-up-emoney31-rectangle25 {
+  top: 10.25px;
+  left: 5.375px;
+  width: 32px;
+  height: 20px;
+  position: absolute;
+  border-color: rgba(14, 22, 100, 1);
+  border-style: solid;
+  border-width: 1.2000000476837158px;
+  border-radius: 2px;
+}
+.top-up-emoney31-vector70 {
+  top: 15.375px;
+  left: 10.75px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.top-up-emoney31-vector71 {
+  top: 25.625px;
+  left: 28.66666603088379px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.top-up-emoney31-ellipse118 {
+  top: 15.375px;
+  left: 16.125px;
+  width: 11px;
+  height: 10px;
+  position: absolute;
+  border-color: rgba(14, 22, 100, 1);
+  border-style: solid;
+  border-width: 1.2000000476837158px;
+}
+.top-up-emoney31-line9 {
+  top: 460px;
+  left: 48px;
+  width: 325px;
+  height: 1px;
+  position: absolute;
+}

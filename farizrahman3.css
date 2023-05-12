@@ -1,0 +1,282 @@
+.top-up-emoney14-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.top-up-emoney14-top-up-emoney14 {
+  width: 411px;
+  height: 736px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(14, 22, 100, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(14, 22, 100, 1);
+}
+.top-up-emoney14-frame {
+  top: -3px;
+  left: 0px;
+  width: 414px;
+  height: 44px;
+  position: absolute;
+}
+.top-up-emoney14-rectangle56 {
+  top: 41px;
+  left: 0px;
+  width: 414px;
+  height: 67px;
+  position: absolute;
+}
+.top-up-emoney14-hicon-bold-left2 {
+  top: 55px;
+  left: 8px;
+  width: 40px;
+  height: 37px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.top-up-emoney14-left2 {
+  top: 9.635416984558105px;
+  left: 15.416666984558105px;
+  width: 9.166666984558105px;
+  height: 17.729167938232422px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney14-vector {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 18px;
+  position: absolute;
+}
+.top-up-emoney14-rectangle57 {
+  top: 67px;
+  left: 377px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.top-up-emoney14-text {
+  top: 57px;
+  left: 151px;
+  color: rgba(40, 84, 150, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney14-buttonlanjutkan {
+  top: 665px;
+  left: 26px;
+  width: 367px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.top-up-emoney14-text02 {
+  top: 15px;
+  left: 144px;
+  color: rgba(36, 78, 141, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney14-infosaldo {
+  top: 134px;
+  left: 23px;
+  width: 367px;
+  height: 183px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.top-up-emoney14-text04 {
+  top: 58px;
+  left: 77px;
+  color: rgba(0, 0, 0, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney14-wallet {
+  top: 38px;
+  left: 28px;
+  width: 40px;
+  height: 39px;
+  position: absolute;
+}
+.top-up-emoney14-norekbank {
+  top: 38px;
+  left: 22px;
+  width: 320px;
+  height: 46.80999755859375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney14-line-stroke {
+  left: -25px;
+  width: 320px;
+  bottom: 0px;
+  height: 1px;
+  position: absolute;
+}
+.top-up-emoney14-text06 {
+  left: 55px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney14-hicon-bold-left21 {
+  top: 39px;
+  left: 296px;
+  width: 29px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.top-up-emoney14-left21 {
+  top: 6.25px;
+  left: 11.177083015441895px;
+  width: 6.6458330154418945px;
+  height: 11.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney14-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+}
+.top-up-emoney14-left22 {
+  top: 17.822998046875px;
+  left: 6.25px;
+  width: 6.6458330154418945px;
+  height: 11.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney14-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+}
+.top-up-emoney14-banktujuan {
+  top: 91px;
+  left: 21px;
+  width: 319.9999694824219px;
+  height: 57.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney14-line-stroke {
+  left: -24px;
+  width: 320px;
+  bottom: 4px;
+  height: 1px;
+  position: absolute;
+}
+.top-up-emoney14-text08 {
+  top: 2px;
+  left: 56px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney14-sertificatelightlight {
+  top: 0px;
+  left: 4px;
+  width: 47px;
+  height: 46px;
+  position: absolute;
+}
+.top-up-emoney14-text10 {
+  top: 27px;
+  left: 56px;
+  color: rgba(0, 0, 0, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

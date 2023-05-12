@@ -1,0 +1,490 @@
+/* --------------- */
+* {
+    margin: 0;
+    padding: 0;
+    margin-top: 25px;
+
+    font-family: Montserrat;
+    font-weight: 600;
+}
+
+.wrapper {
+    margin : 0 auto;
+    width: 300px;
+    height: 530px;
+    background: rgba(14, 22, 100, 1);
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25) ;
+}
+
+.header {
+    width: inherit;
+    height: 70px;
+    background: white;
+}
+
+.img-notification {
+    width: inherit;
+    margin-top: -8px;
+}
+
+.navbar-mTransfer {
+    width: 300px;
+    margin-top: 0.3;
+}
+
+.navbar-transfer-list {
+    width: 300px;
+    margin-top: 0.3;
+}
+
+.balance {
+    width: 260px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 19px;
+    margin-top: -14px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.25) ;
+
+    color: rgba(40, 84, 150, 1);
+    height: auto;
+    font-style: SemiBold;
+    text-align: left;
+}
+
+#font1-balance {
+    font-size: 10px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+#font2-balance {
+    font-size: 17px;
+    margin-top: 9px;
+    padding-left: 15px;
+    padding-bottom: 13px;
+}
+
+.menu-add {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 28px;
+    margin-top: 15px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.25) ;
+}
+
+#img-icon-add {
+    width: 33px;
+    height: 33px;
+    margin-top: 13%;
+    padding-left: 16%;
+}
+
+
+.menu-send {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 92px;
+    margin-top: -49.5px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.25) ;
+}
+
+#img-icon-send {
+    width: 33px;
+    height: 33px;
+    margin-top: 13%;
+    padding-left: 16%;
+}
+
+.menu-v-account {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 155px;
+    margin-top: -49.5px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.25) ;
+}
+
+#img-icon-v-account {
+    width: 33px;
+    height: 33px;
+    margin-top: 14%;
+    padding-left: 16%;
+}
+
+.menu-more {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 219px;
+    margin-top: -49.5px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.25) ;
+}
+
+#img-icon-menu-more {
+    width: 33px;
+    height: 33px;
+    margin-top: 13%;
+    padding-left: 16%;
+}
+
+.font-template {
+    color: white;
+    height: auto;
+    font-style: SemiBold;
+    text-align: left;
+}
+
+#font-add {
+    color: white;
+    height: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-size: 10px;
+
+    margin-top: 28%;
+    margin-left: 23%;
+}
+
+#font-send {
+    color: white;
+    height: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-size: 10px;
+
+    margin-top: 28%;
+    margin-left: 23%;
+}
+
+#font-v-account {
+    color: white;
+    height: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-size: 10px;
+
+    margin-top: 28%;
+    margin-left: 2%;   
+}
+
+
+#font-more {
+    color: white;
+    height: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-size: 10px;
+
+    margin-top: 28%;
+    margin-left: 23%;
+}
+
+.recent-transaction {
+    width: 300px;
+    height: 288,px;
+    margin-top: 2%;
+}
+
+/* CSS Halaman Add Transfer  */
+
+.container-1 {
+    width: 260px;
+    height: 225px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 19px;
+    margin-top: 20px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.25) ;
+
+    color: rgba(40, 84, 150, 1);
+    font-style: SemiBold;
+    text-align: left;
+}
+
+#style-font {
+    font-style: Regular;
+    text-align: center;
+
+    font-size: 10px;
+    width: 110px;
+    margin-left: 15px;
+
+    background-color: #CCD1FF;
+}
+
+#style-font2 {
+    font-style: Regular;
+    text-align: center;
+
+    font-size: 10px;
+    width: 110px;
+    margin-left: 5px;
+}
+
+/* css form input  */
+
+#style-form {
+    font-style: Regular;
+
+    font-size: 10px;
+    width: 215px;
+    margin-left: 12px;
+}
+
+#style-form-label {
+    font-style: Regular;
+    font-family: Montserrat;
+    font-weight: 600;
+    margin-top: 2%;
+    font-size: 10px;
+    margin-bottom: -5%;
+    margin-left: -1% ;
+}
+
+#style-form-input {
+    font-style: Regular;
+
+    margin-top: -7%;
+    padding-right: 10px;
+    font-size: 10px;
+}
+
+.form-select, .form-control {
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    border-bottom: 1.2px solid grey;
+    border-radius: 0;
+    margin-top: 10%;
+  }
+
+.form-select:focus, .form-control:focus {
+    box-shadow: none;
+    border-bottom-color: black;
+}
+
+#style-form2 {
+    font-style: Regular;
+
+    font-size: 10px;
+    width: 215px;
+    margin-left: 25px;
+    margin-top: -1%;
+}
+
+#style-form-label2 {
+    font-style: Regular;
+
+    margin-top:1%;
+    font-size: 10px;
+    margin-bottom: -5%;
+    margin-left: -6% ;
+}
+
+.option {
+    font-family: Montserrat;
+    font-weight: 600;
+}
+
+/* css footer  */
+
+.footer {
+    margin-top: 54.5%;
+    align-items: center;
+}
+
+.footer2 {
+    margin-top: 34.5%;
+    align-items: center;
+}
+
+#button-lanjutkan {
+    font-style: Regular;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 600;
+
+    font-size: 11.6px;
+    width: 270px;
+    margin-left: 15px;
+    color: #254F8E;
+}
+
+.transfer-list {
+    width: 270px;
+    margin-top: -5%;
+    margin-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+
+/* CSS Halaman Add Nominal Transfer */
+
+.container-3 {
+    width: 260px;
+    height: 260px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 19px;
+    margin-top: 20px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.25) ;
+
+    color: rgba(40, 84, 150, 1);
+    font-style: SemiBold;
+    text-align: left;
+}
+
+/* CSS halaman add nominal */
+
+.container-4 {
+    width: 260px;
+    height: 285px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 19px;
+    margin-top: 20px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.25) ;
+
+    color: rgba(40, 84, 150, 1);
+    font-style: SemiBold;
+    text-align: left;
+}
+
+.nomor-tujuan {
+    padding-left: 15px;
+    margin-top: -15px;
+    /* background: black; */
+    color: black;
+    font-size: 11px;
+}
+
+#img-avatar {
+    margin-top: 4px;
+    margin-left: 8px;
+}
+
+#img-avatar2 {
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+#font-nama-tujuan {
+    margin-top: 7px;
+    margin-left: -13px;
+}
+
+#font-nomor-tujuan {
+    margin-top: -17px;
+    margin-left: -13px;
+    font-weight: lighter;
+    font-size: 10px;
+}                             
+
+.box-add-nominal {
+    background-color: #E4EDFF;
+    margin-left: 15px;
+    width: 229px;
+    height: 60px;
+    margin-top:-10px;
+    border-radius: 5px;
+}
+
+#font-keterangan-nominal {
+    font-size: 8.5px; 
+    font-weight: 500;
+
+    margin-top: -14px;
+}
+
+#text-area {
+    margin-left: 15px;
+    margin-top: -17px;
+    width: 230px;
+
+    font-size: 12px;
+    font-weight: normal;
+}
+
+
+.back-drop {
+    position: absolute; 
+	background: rgba(0, 0, 0, 0.5); 
+	width: inherit; 
+	height: 820px; 
+	margin-top: -70px;
+
+}
+
+/* css wrapper background salma5 dan salma7 */
+.wrapper-background {
+    background-position-x: 1%;
+    width: 301px;
+    height: 530px;
+    background-image: url(assets/img/background-image-konfirmasi-box.svg);
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25) ;
+    background-position:center; /* Center the image */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#font-konfirmasi-box {
+    font-size: 10px;
+    font-weight: 600;
+    padding-left: 58px;
+    padding-top: 170px;   
+}
+
+#button-linear {
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,26,114,1) 35%, rgba(43,117,235,1) 100%);
+    color: white;
+    font-weight: bold;
+    border-color: transparent;
+    width: 90px;
+    height: 27px;
+    font-size: 10px;
+    margin-left: 55px;
+    margin-top: 60px;
+    padding-bottom: 10px;
+}
+
+/* css wrapper background salma6 */
+.wrapper-background2 {
+    background-position-x: 1%;
+    width: 301px;
+    height: 530px;
+    background-image: url(assets/img/background-image-blured.svg);
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25) ;
+    background-position:center; /* Center the image */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box-pin-atm {
+    width: 240px;
+    height: 155px;
+    background: white;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25) ;
+    border-radius: 5px;
+    margin-left: 30px;
+    padding-top: 7px;
+    padding-left: 7px;
+}
+
+.form-input-pin {
+    width: 154px;
+    height: 28px;
+    margin-top: 25px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: grey;
+    -webkit-text-security: disc;
+}

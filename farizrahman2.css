@@ -1,0 +1,541 @@
+.top-up-emoney121-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.top-up-emoney121-top-up-emoney12 {
+  width: 405px;
+  height: 736px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(14, 22, 100, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(14, 22, 100, 1);
+}
+.top-up-emoney121-frame {
+  top: 0px;
+  left: 0px;
+  width: 412px;
+  height: 44px;
+  position: absolute;
+}
+.top-up-emoney121-rectangle56 {
+  top: 39px;
+  left: 0px;
+  width: 414px;
+  height: 67px;
+  position: absolute;
+}
+.top-up-emoney121-hicon-bold-left2 {
+  top: 55px;
+  left: 8px;
+  width: 40px;
+  height: 37px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.top-up-emoney121-left2 {
+  top: 9.635416984558105px;
+  left: 15.416666984558105px;
+  width: 9.166666984558105px;
+  height: 17.729167938232422px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-vector {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 18px;
+  position: absolute;
+}
+.top-up-emoney121-rectangle57 {
+  top: 67px;
+  left: 377px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.top-up-emoney121-text {
+  top: 57px;
+  left: 153px;
+  color: rgba(40, 84, 150, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney121-infosaldo {
+  top: 144px;
+  left: 18px;
+  width: 367px;
+  height: 183px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.top-up-emoney121-wallet {
+  top: 38px;
+  left: 28px;
+  width: 40px;
+  height: 39px;
+  position: absolute;
+}
+.top-up-emoney121-norekbank {
+  top: 37px;
+  left: 22px;
+  width: 319.9999084472656px;
+  height: 47.30950927734375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-line1 {
+  top: 47.30950927734375px;
+  left: 0px;
+  width: 320px;
+  height: 1px;
+  position: absolute;
+}
+.top-up-emoney121-text02 {
+  left: 56px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney121-hicon-bold-left21 {
+  top: 39px;
+  left: 295px;
+  width: 29px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.top-up-emoney121-left21 {
+  top: 6.25px;
+  left: 11.177083015441895px;
+  width: 6.6458330154418945px;
+  height: 11.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+}
+.top-up-emoney121-text04 {
+  top: 21px;
+  left: 55px;
+  color: rgba(0, 0, 0, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney121-banktujuan {
+  top: 102px;
+  left: 21px;
+  width: 319.9999084472656px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-line2 {
+  top: 46px;
+  left: 0px;
+  width: 320px;
+  height: 1px;
+  position: absolute;
+}
+.top-up-emoney121-text06 {
+  top: 1px;
+  left: 57px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney121-sertificatelightlight {
+  top: 0px;
+  left: 6px;
+  width: 47px;
+  height: 46px;
+  position: absolute;
+}
+.top-up-emoney121-text08 {
+  top: 21px;
+  left: 56px;
+  color: rgba(0, 0, 0, 1);
+  width: 152px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney121-opsidompetdigital {
+  gap: 23px;
+  left: -23px;
+  width: 413px;
+  bottom: -52px;
+  height: 334px;
+  display: flex;
+  padding: 25px 16px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 11px 11px 0 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.top-up-emoney121-opsi1 {
+  width: 375px;
+  height: 38px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-line3 {
+  left: -20px;
+  width: 375px;
+  bottom: 1px;
+  height: 1px;
+  position: absolute;
+}
+.top-up-emoney121-text10 {
+  top: 2px;
+  left: 79px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney121-logoovo {
+  top: 0px;
+  left: 6px;
+  width: 30px;
+  height: 29.76589584350586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-ellipse190 {
+  right: -18px;
+  width: 30px;
+  bottom: -2px;
+  height: 30px;
+  position: absolute;
+}
+.top-up-emoney121-image2 {
+  top: 12px;
+  right: -14px;
+  width: 22px;
+  height: 7px;
+  position: absolute;
+}
+.top-up-emoney121-opsi2 {
+  width: 375px;
+  height: 39.00020980834961px;
+  display: flex;
+  z-index: 1;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-line21 {
+  left: -21px;
+  width: 375px;
+  bottom: 2px;
+  height: 1px;
+  position: absolute;
+}
+.top-up-emoney121-text11 {
+  top: 3px;
+  left: 74px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney121-logoovo1 {
+  top: 0px;
+  left: 6px;
+  width: 30px;
+  height: 29.76589584350586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-ellipse1901 {
+  right: -19px;
+  width: 30px;
+  bottom: -3px;
+  height: 30px;
+  position: absolute;
+}
+.top-up-emoney121-imageremovebgpreview4 {
+  top: 8px;
+  right: -16px;
+  width: 27px;
+  height: 20px;
+  position: absolute;
+}
+.top-up-emoney121-opsi3 {
+  width: 375px;
+  height: 38.03145980834961px;
+  display: flex;
+  z-index: 2;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-line22 {
+  left: -24px;
+  width: 375px;
+  bottom: -2px;
+  height: 1px;
+  position: absolute;
+}
+.top-up-emoney121-text13 {
+  top: 3px;
+  left: 71px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney121-logoovo2 {
+  top: 0px;
+  left: 6px;
+  width: 30px;
+  height: 29.76589584350586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-ellipse1902 {
+  top: -2px;
+  right: -18px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.top-up-emoney121-shopee-pay-logo-svg1080p-vector6-com1 {
+  top: 9px;
+  right: -14px;
+  width: 23px;
+  height: 10px;
+  position: absolute;
+}
+.top-up-emoney121-opsi4 {
+  width: 375px;
+  height: 38.03145980834961px;
+  display: flex;
+  z-index: 3;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-line23 {
+  left: -25px;
+  width: 375px;
+  bottom: 3px;
+  height: 1px;
+  position: absolute;
+}
+.top-up-emoney121-text15 {
+  top: 2px;
+  left: 72px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney121-logoovo3 {
+  top: 0px;
+  left: 4px;
+  width: 30px;
+  height: 29.76589584350586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-ellipse1903 {
+  top: -1px;
+  right: -22px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.top-up-emoney121-logodanablue1 {
+  top: 12px;
+  right: -20px;
+  width: 25px;
+  height: 7px;
+  position: absolute;
+}
+.top-up-emoney121-opsi5 {
+  width: 375px;
+  height: 38.03145980834961px;
+  display: flex;
+  z-index: 4;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-line24 {
+  left: -28px;
+  width: 375px;
+  bottom: 9px;
+  height: 1px;
+  position: absolute;
+}
+.top-up-emoney121-text17 {
+  top: 3px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.top-up-emoney121-logoovo4 {
+  top: 0px;
+  left: 2px;
+  width: 30px;
+  height: 29.76589584350586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.top-up-emoney121-ellipse1904 {
+  top: 0px;
+  right: -25px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.top-up-emoney121-imageremovebgpreview14 {
+  top: 8px;
+  right: -19px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.top-up-emoney121-line10 {
+  top: 8px;
+  left: 200px;
+  width: 61px;
+  height: 1px;
+  z-index: 5;
+  position: absolute;
+}
